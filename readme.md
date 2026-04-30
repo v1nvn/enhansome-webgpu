@@ -26,7 +26,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ### Official websites
 
-* [GPUWeb](https://github.com/gpuweb/gpuweb) ⭐ 5,378 | 🐛 467 | 🌐 Bikeshed | 📅 2026-03-24 - Official GitHub repository.
+* [GPUWeb](https://github.com/gpuweb/gpuweb) ⭐ 5,380 | 🐛 469 | 🌐 Bikeshed | 📅 2026-03-24 - Official GitHub repository.
 * [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 
 ### WebGPU Specifications
@@ -58,7 +58,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 > This is an experimental technology
 
-* [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) ⭐ 5,378 | 🐛 467 | 🌐 Bikeshed | 📅 2026-03-24 - Official W3C Group.
+* [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) ⭐ 5,380 | 🐛 469 | 🌐 Bikeshed | 📅 2026-03-24 - Official W3C Group.
 * [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
 
 ### Chrome
@@ -128,13 +128,13 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ## Libraries
 
-* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,007 | 🐛 1,123 | 🌐 Rust | 📅 2026-04-27 - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
-* [sokol](https://github.com/floooh/sokol/) ⭐ 9,808 | 🐛 150 | 🌐 C | 📅 2026-04-28 - Simple STB-style cross-platform libraries for C and C++.
-* [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,070 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-19 - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
-* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,087 | 🐛 37 | 🌐 TypeScript | 📅 2026-04-14 - React Native implementation of WebGPU using Dawn.
-* [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) ⭐ 557 | 🐛 48 | 🌐 C++ | 📅 2026-03-31 - C/C++ headers.
+* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,013 | 🐛 1,105 | 🌐 Rust | 📅 2026-04-30 - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
+* [sokol](https://github.com/floooh/sokol/) ⭐ 9,810 | 🐛 150 | 🌐 C | 📅 2026-04-29 - Simple STB-style cross-platform libraries for C and C++.
+* [ChartGPU](https://github.com/chartgpu/chartgpu) ⭐ 3,072 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-19 - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+* [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) ⭐ 1,088 | 🐛 37 | 🌐 TypeScript | 📅 2026-04-14 - React Native implementation of WebGPU using Dawn.
+* [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) ⭐ 557 | 🐛 49 | 🌐 C++ | 📅 2026-03-31 - C/C++ headers.
 * [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) ⭐ 478 | 🐛 12 | 🌐 C++ | 📅 2025-09-03 - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
-* [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 379 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-29 - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
+* [RedGPU](https://github.com/redcamel/RedGPU) ⭐ 379 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-30 - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
 * [wgsl\_reflect](https://github.com/brendan-duncan/wgsl_reflect) ⭐ 269 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-16 - A WebGPU Shading Language parser and reflection library for JavaScript.
 * [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) ⭐ 240 | 🐛 86 | 📅 2026-04-22 - WGSL extensions for `import`, `@if`, and more.
 * [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET) ⭐ 197 | 🐛 0 | 🌐 C# | 📅 2026-04-07 - .NET bindings, built on top of wgpu.
@@ -175,9 +175,9 @@ These have not been updated for a while:
 
 Right now, demos work best on Chrome/Edge.
 
-* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 112,226 | 🐛 518 | 🌐 JavaScript | 📅 2026-04-29
-* [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm) ⭐ 17,851 | 🐛 151 | 🌐 TypeScript | 📅 2026-04-24
-* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 17,007 | 🐛 1,123 | 🌐 Rust | 📅 2026-04-27
+* [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html) ⭐ 112,247 | 🐛 515 | 🌐 JavaScript | 📅 2026-04-29
+* [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm) ⭐ 17,853 | 🐛 151 | 🌐 TypeScript | 📅 2026-04-24
+* [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples) ⭐ 17,013 | 🐛 1,105 | 🌐 Rust | 📅 2026-04-30
 * [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - [Repository](https://github.com/mlc-ai/web-stable-diffusion) ⭐ 3,722 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-03-12
 * [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples) ⭐ 2,122 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-16
 * [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) ⭐ 297 | 🐛 3 | 🌐 C++ | 📅 2020-09-15 - A fork of dawn with Ray tracing extensions, by Felix Maier.
@@ -185,14 +185,14 @@ Right now, demos work best on Chrome/Edge.
 * [Online WGSL Editor](https://takahirox.github.io/online-wgsl-editor/) - By [Takahiro](https://github.com/takahirox) - [Repository](https://github.com/takahirox/online-wgsl-editor) ⭐ 182 | 🐛 7 | 🌐 JavaScript | 📅 2023-04-08
 * [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository](https://github.com/toji/spookyball) ⭐ 141 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-04
 * [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - An implementation of "Real-Time Fluid Dynamics for Games" paper, by [kishimisu](https://github.com/kishimisu) - [Repository](https://github.com/kishimisu/WebGPU-Fluid-Simulation) ⭐ 134 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-28
-* [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - A node based shader editor, by [deepkolos](https://github.com/deepkolos) - [Repository](https://github.com/deepkolos/shader-graph-wgsl) ⭐ 121 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-31
+* [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - A node based shader editor, by [deepkolos](https://github.com/deepkolos) - [Repository](https://github.com/deepkolos/shader-graph-wgsl) ⭐ 122 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-31
 * [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-metaballs) ⭐ 96 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-15
 * [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - Scene render comparison between WebGL, WebGL 2.0 and WebGPU, by Brandon Jones - [Repository](https://github.com/toji/webgpu-test) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-26
 * [WebGPU Examples](https://tsherif.github.io/webgpu-examples/) - A few examples of rendering algorithms implemented in WebGPU, by [Tarek Sherif](https://github.com/tsherif) - [Repository](https://github.com/tsherif/webgpu-examples) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-05
 * [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - Demos and experiments, focused on compute shaders, by [Sebastian Macke](https://github.com/s-macke) - [Repository](https://github.com/s-macke/WebGPU-Lab) ⭐ 49 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-07
 * [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - A playground to experiment with WebGPU, by [@06wj](https://github.com/06wj) - [Repository](https://github.com/06wj/WebGPU-Playground) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-03
 * [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-30
-* [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository](https://github.com/hsimpson/webgpu-particles) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-11
+* [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository](https://github.com/hsimpson/webgpu-particles) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-11
 * [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - An Image processing app built using Thimbleberry, by [mighdoll](https://vis.social/@mighdoll) - [Repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-16
 * [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - Memory models testing suite, by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [Repository](https://github.com/reeselevine/webgpu-litmus) ⭐ 14 | 🐛 0 | 🌐 WGSL | 📅 2026-02-20
 * [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) ⭐ 9 | 🐛 0 | 🌐 WGSL | 📅 2024-06-17 - A real-time ray tracer implementing ReSTIR algorithm - [Repository](https://github.com/C-none/Web-RTRT) ⭐ 9 | 🐛 0 | 🌐 WGSL | 📅 2024-06-17
