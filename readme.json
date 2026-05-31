@@ -128,7 +128,7 @@
             "last_commit": "2026-05-29T19:12:46Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17251
+            "stars": 17255
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-29T15:44:11Z",
+            "last_commit": "2026-05-30T15:28:26Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 9922
+            "stars": 9929
           }
         },
         {
@@ -309,10 +309,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-30T04:10:22Z",
+            "last_commit": "2026-05-30T18:21:38Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1121
+            "stars": 1123
           }
         },
         {
@@ -460,10 +460,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-30T02:20:51Z",
+            "last_commit": "2026-05-31T03:23:15Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 112759
+            "stars": 112762
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-05-29T19:12:46Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17251
+            "stars": 17255
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-05-27T05:24:49Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18087
+            "stars": 18089
           }
         },
         {
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:42:54.928Z",
+    "last_updated": "2026-05-31T06:12:17.230Z",
     "original_repository": "mikbry/awesome-webgpu",
     "source_repository": "v1nvn/enhansome-webgpu",
     "source_repository_description": null,
