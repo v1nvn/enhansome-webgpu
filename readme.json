@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-29T19:12:46Z",
+            "last_commit": "2026-06-01T03:38:52Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17255
+            "stars": 17260
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-30T15:28:26Z",
+            "last_commit": "2026-05-31T14:17:06Z",
             "owner": "floooh",
             "repo": "sokol",
-            "stars": 9929
+            "stars": 9931
           }
         },
         {
@@ -164,10 +164,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-28T08:03:47Z",
+            "last_commit": "2026-06-01T06:47:13Z",
             "owner": "redcamel",
             "repo": "RedGPU",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -309,10 +309,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-30T18:21:38Z",
+            "last_commit": "2026-05-31T19:51:01Z",
             "owner": "wcandillon",
             "repo": "react-native-webgpu",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-05-01T16:25:26Z",
             "owner": "ChartGPU",
             "repo": "ChartGPU",
-            "stars": 3108
+            "stars": 3109
           }
         }
       ],
@@ -460,10 +460,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-31T03:23:15Z",
+            "last_commit": "2026-06-01T06:20:43Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 112762
+            "stars": 112783
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2026-03-05T04:02:56Z",
             "owner": "tsherif",
             "repo": "webgpu-examples",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -540,10 +540,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-29T19:12:46Z",
+            "last_commit": "2026-06-01T03:38:52Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17255
+            "stars": 17260
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-05-27T05:24:49Z",
             "owner": "mlc-ai",
             "repo": "web-llm",
-            "stars": 18089
+            "stars": 18097
           }
         },
         {
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:12:17.230Z",
+    "last_updated": "2026-06-01T06:48:43.646Z",
     "original_repository": "mikbry/awesome-webgpu",
     "source_repository": "v1nvn/enhansome-webgpu",
     "source_repository_description": null,
